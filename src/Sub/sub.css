@@ -1,0 +1,22 @@
+div {
+    display: block;
+    justify-content: center;
+}
+
+
+#container1 {
+    background-image:url("./back.jpg");
+    background-size: cover;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+}
+
+.container2 {
+    text-align: center;
+    justify-content: center;
+    margin-left: 10%;
+    margin-right: 15%;
+    margin-top: 15%
+}

@@ -1,0 +1,51 @@
+div {
+    display: block;
+    justify-content: center;
+}
+
+.container2 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 10%
+}
+
+.container3 {
+    text-align: center;
+    justify-content: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 5%
+}
+
+.b1 {
+    width: 30%;
+    height: auto;
+    text-align: center;
+    justify-content: center;
+    background-color: #006600;
+    color: #ffffff;
+    border-radius: 30%;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.b2 {
+    width: 30%;
+    height: 60px;
+    text-align: center;
+    justify-content: center;
+    color: #ffffff;
+    border-radius: 30%;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+#container1 {
+    background-image:url("./background.jpg");
+    background-size: cover;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+}
